@@ -30,16 +30,15 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 🏅 Algorithm Gold Level. 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuna1do)](https://solved.ac/yuna1do/)  
-Programmers - Lv3  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kate010117)](https://solved.ac/kate010117/)  
+Programmers - Lv2  
 Samsung SW *Pro Level*
 
 
 🏆 Awards
-|Competition|Prize|Date|
+|Name|Prize|Date|
 |------|---|---|
-|Microsoft News Recommendation|World 2nd Prize|Oct 21, 2020|
-|Kaggle Man/Female Predict Competition|1st|Jan 25, 2019|
+|SSAFY 1st Semester Outstanding Performance Award|2nd|Nov 28, 2024|
 
 
 
