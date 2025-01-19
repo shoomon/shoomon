@@ -1,4 +1,4 @@
-# Hi Welcome, i'm SOOMIN KIM 👋
+# Hi Welcome, I'm SOOMIN KIM 👋
 
 ## Back-End Developer / Data Engineering
 Developers who create beneficial social values   
