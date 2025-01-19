@@ -27,9 +27,11 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 ## 🏅 Algorithm Gold Level. 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kate010117)](https://solved.ac/kate010117/)  
-Programmers - Lv2  
-Samsung SW *Pro Level*
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kate010117)](https://solved.ac/kate010117/)
+<br/>
+**Programmers - Lv2**
+<br/>
+**Samsung SW *Pro Level***
 
 
 ## 🏆 Awards
