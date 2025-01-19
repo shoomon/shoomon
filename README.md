@@ -25,13 +25,11 @@ A developer who thinks, researches, creates, and connects to practical realizati
   [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kate010117)](https://velog.io/@kate010117)
 
 
-## 🏅 Algorithm Gold Level. 
+## 🏅 Algorithm Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kate010117)](https://solved.ac/kate010117/)
-<br/>
-**Programmers - Lv2**
-<br/>
-**Samsung SW *Pro Level***
+#### Programmers - Lv2
+#### Samsung SW *Pro Level*
 
 
 ## 🏆 Awards
